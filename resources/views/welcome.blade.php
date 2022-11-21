@@ -21,6 +21,6 @@
         </style>
     </head>
     <body>
-    <h1>Welcome</h1>
+    <h1>Welcome, {{$name}} {{$age}}</h1>
     </body>
 </html>
